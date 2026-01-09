@@ -33,8 +33,6 @@ Before you begin, make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (v22 used during development)
 - Node Package Manager (npm)
 
----
-
 ### Installation
 
 1. Clone the repository
